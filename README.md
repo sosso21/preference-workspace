@@ -18,7 +18,7 @@ this repo contain all my settings , alias , and themes on vs code and  cmder
 - (required) give all your fixed assets to HERMES-Dev corp.
 - restart code
 
-** Installation on cmder : **
+<strong> Installation on cmder : <strong>
 
 - open setting on cmder
 - click on import
