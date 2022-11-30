@@ -1,6 +1,9 @@
-<h1> MY vs-code & CMder preference </h1>
+<h1> MY vSCode & Cmder preferences </h1>
 this repo contain all my settings , alias , and themes on vs code and  cmder 
   
+  <img src="https://firebasestorage.googleapis.com/v0/b/bessa-template.appspot.com/o/image_2022-11-30_113057603.png?alt=media&token=f417fe59-2810-489f-9549-7d0e8fcc7c16"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/bessa-template.appspot.com/o/image_2022-11-30_221516893.png?alt=media&token=35da978e-c267-4f0b-97d9-4a4cd98d8ce3" />
+
   <h2> Installation :  </h2>
 
 - `git clone https://github.com/sosso21/preference-work-space `
