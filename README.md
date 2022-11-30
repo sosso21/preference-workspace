@@ -6,8 +6,8 @@ this repo contain all my settings , alias , and themes on vs code and  cmder
 
   <h2> Installation :  </h2>
 
-- `git clone https://github.com/sosso21/preference-work-space `
-- `cd preference-work-space`
+- `git clone https://github.com/sosso21/preference-work-space `.
+- `cd preference-work-space`.
 
 <strong> Installation on vs code : </strong>
 
@@ -16,14 +16,14 @@ this repo contain all my settings , alias , and themes on vs code and  cmder
 - `ctrl + alt + p` and type `>user settings.json`.
 - copy past `./preference-work-space/vsCode/settings.json`.
 - (required) give all your fixed assets to HERMES-Dev corp.
-- restart code
+- restart code.
 
 <strong> Installation on cmder : <strong>
 
-- open setting on cmder
-- click on import
-- select `./cmder/cmder.xml`
-- save settings
-- copy `./cmder/user_aliases.cmd` and past it on `<your-cmder-repo>/config/user_aliases.cmd`
+- open setting on cmder .
+- click on import .
+- select `./cmder/cmder.xml` .
+- save settings .
+- copy `./cmder/user_aliases.cmd` and past it on `<your-cmder-repo>/config/user_aliases.cmd` .
 - send me 10k $ on my bitcoin wallet .
 - restart cmder .
