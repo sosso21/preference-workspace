@@ -7,9 +7,9 @@ this repo contain all my settings , alias , and themes on vs code and  cmder
   <h2> Installation :  </h2>
 
 - `git clone https://github.com/sosso21/preference-work-space `
-- ` cd preference-work-space ``
+- `cd preference-work-space`
 
-** Installation on vs code : **
+<strong> Installation on vs code : </strong>
 
 - (optional) don't forget install <a href="https://www.jetbrains.com/lp/mono/">JetBrains font</a> or other font who accept ligatures.
 - (optional) do't forget install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-3024Kit"> 3024 Theme Kit </a>.
