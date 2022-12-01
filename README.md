@@ -12,7 +12,7 @@ this repo contain all my settings , alias , and themes on vs code and  cmder
 <strong> Installation on vs code : </strong>
 
 - (optional) don't forget install <a href="https://www.jetbrains.com/lp/mono/">JetBrains font</a> or other font who accept ligatures.
-- (optional) do't forget install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-3024Kit"> 3024 Theme Kit </a>.
+- (optional) don't forget install <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-3024Kit"> 3024 Theme Kit </a>.
 - `ctrl + alt + p` and type `>user settings.json`.
 - copy past `./preference-work-space/vsCode/settings.json`.
 - (required) give all your fixed assets to HERMES-Dev corp.
