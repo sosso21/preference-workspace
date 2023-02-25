@@ -14,6 +14,7 @@ vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
 op=MKDIR $1 && cd $1
 rmrf=RMDIR /S /Q $1
+cpr=xcopy /s /e /i $1 $2
 sandbox=cd %USERPROFILE%\Downloads\sandbox\ && cls
 ok=cd %USERPROFILE%\Downloads\sandbox\vue\TP\ouedkniss && cls
 
